@@ -12,8 +12,8 @@
 - HTML
 - CSS
 - Javascript 
-🌐 - https://michalsnik.github.io/aos/
-🌐 - https://swiperjs.com/
+🌐 - (https://michalsnik.github.io/aos/)
+🌐 - (https://swiperjs.com/)
 
 
 ## Contato
